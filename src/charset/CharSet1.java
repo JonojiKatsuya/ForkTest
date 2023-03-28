@@ -57,4 +57,6 @@ public class CharSet1 implements Set<Character> {
     
     // TODO: toString()
 
-}
+    public void toString() {
+	System.out.println(s);
+    }
