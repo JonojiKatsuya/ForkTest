@@ -77,3 +77,4 @@ public class RatNum {
     
     // TODO: this immutable type needs equals() and hashCode()
 }
+//good
